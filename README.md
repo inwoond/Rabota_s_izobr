@@ -15,8 +15,6 @@
 
 ## Описание данных
 
-Данные доступны по [ссылке](https://code.s3.yandex.net/datasets/dsplus_integrated_project_4.zip).
-
 Проект использует следующие файлы:
 
 - **`train_dataset.csv`** — содержит пары `image_id`, `text_id`, `text`, до 5 описаний на изображение.
